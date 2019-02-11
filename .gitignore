@@ -1,2 +1,2 @@
 FoldertoIgnore/*
-FoldertoIgnore\*
+#This does not work - FoldertoIgnore\*
